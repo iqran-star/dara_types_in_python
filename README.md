@@ -1,2 +1,2 @@
-# dara_types_in_python
+# data_types_in_python
 This is a simple python data types practice
